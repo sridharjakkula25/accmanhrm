@@ -1,0 +1,15 @@
+[06-Mar-2018 14:13:30 UTC] PHP Warning:  fopen(installer/log.txt): failed to open stream: Permission denied in /Library/WebServer/Documents/orangehrm/installer/ApplicationSetupUtility.php on line 379
+[06-Mar-2018 14:13:30 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /Library/WebServer/Documents/orangehrm/installer/ApplicationSetupUtility.php on line 380
+[06-Mar-2018 14:13:30 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /Library/WebServer/Documents/orangehrm/installer/ApplicationSetupUtility.php on line 381
+[06-Mar-2018 14:13:30 UTC] PHP Warning:  error_log(installer/log.txt): failed to open stream: Permission denied in /Library/WebServer/Documents/orangehrm/installer/ApplicationSetupUtility.php on line 388
+[06-Mar-2018 14:13:30 UTC] PHP Warning:  error_log(installer/log.txt): failed to open stream: Permission denied in /Library/WebServer/Documents/orangehrm/installer/ApplicationSetupUtility.php on line 390
+[06-Mar-2018 14:13:30 UTC] PHP Warning:  error_log(installer/log.txt): failed to open stream: Permission denied in /Library/WebServer/Documents/orangehrm/installer/ApplicationSetupUtility.php on line 393
+[06-Mar-2018 14:13:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Library/WebServer/Documents/orangehrm/installer/ApplicationSetupUtility.php:379) in /Library/WebServer/Documents/orangehrm/install.php on line 318
+[06-Mar-2018 14:13:41 UTC] PHP Warning:  error_log(installer/log.txt): failed to open stream: Permission denied in /Library/WebServer/Documents/orangehrm/installer/ApplicationSetupUtility.php on line 401
+[06-Mar-2018 14:13:41 UTC] PHP Warning:  error_log(installer/log.txt): failed to open stream: Permission denied in /Library/WebServer/Documents/orangehrm/installer/ApplicationSetupUtility.php on line 124
+[06-Mar-2018 14:13:41 UTC] PHP Warning:  error_log(installer/log.txt): failed to open stream: Permission denied in /Library/WebServer/Documents/orangehrm/installer/ApplicationSetupUtility.php on line 132
+[06-Mar-2018 14:13:41 UTC] PHP Warning:  error_log(installer/log.txt): failed to open stream: Permission denied in /Library/WebServer/Documents/orangehrm/installer/ApplicationSetupUtility.php on line 133
+[06-Mar-2018 14:13:41 UTC] PHP Warning:  error_log(installer/log.txt): failed to open stream: Permission denied in /Library/WebServer/Documents/orangehrm/installer/ApplicationSetupUtility.php on line 138
+[06-Mar-2018 14:13:41 UTC] PHP Warning:  error_log(installer/log.txt): failed to open stream: Permission denied in /Library/WebServer/Documents/orangehrm/installer/ApplicationSetupUtility.php on line 143
+[06-Mar-2018 14:13:41 UTC] PHP Warning:  error_log(installer/log.txt): failed to open stream: Permission denied in /Library/WebServer/Documents/orangehrm/installer/ApplicationSetupUtility.php on line 148
+[06-Mar-2018 14:14:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Library/WebServer/Documents/orangehrm/installer/ApplicationSetupUtility.php:401) in /Library/WebServer/Documents/orangehrm/install.php on line 318
